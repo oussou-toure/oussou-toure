@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oussou-toure
+- 👋 Hi, I’m Ousmane Touré
 - 👀 I’m interested in Data science and ML
 - 🌱 I’m currently learning SQL and ML algorithms
 - 📫 How to reach me https://www.linkedin.com/in/ousmane-tour%C3%A9-699619b2/
